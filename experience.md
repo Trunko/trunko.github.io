@@ -18,6 +18,19 @@ Courses I have taken:
 ### Experience
 Since I began programming in High School, I have done a number of projects.
 
+#### MegaMiner AI
+As a member of the **ACM SIG-Game** Game and AI sub-teams, I have helped organize [MegaMiner AI](https://siggame.io), a 24 hour event held twice a year by SIG-Game that has competitors from all over try to create the best AI for a game that we design in a few weeks.
+
+On the teams that I have been a part of, I have helped to develop the game mechanics, and helped to balance the game, as well as design my own AI to test the game (and try to win of course).
+
+The game server is developed mainly using Javascript, while the AIs can be created using any of the following:
+- Javascript
+- Java
+- Python
+- C++
+- C#
+- Lua
+
 #### acm.mst.edu
 As a member of **ACM SIG.com** I have helped develop the frontend and backend aspects of the website, [acm.mst.edu](https://acm.mst.edu).
 
