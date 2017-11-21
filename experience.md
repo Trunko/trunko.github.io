@@ -1,19 +1,25 @@
 ### Education
-I am a computer science major at [Missouri S&T](https://mst.edu) in my sophomore year.
+I am a computer science major at [Missouri S&T](https://mst.edu) in my junior year.
 
 Courses I have taken:
 - Introduction to Programming with C++
 - Data Structures
 - Contemporary Programming Languages
 - Discrete Mathematics
+- Algorithms
+- Theory of Computer Science
+- File Structures and Intro to Databases
+- Programming Languages and Translators
+- Intro to Digital Logic
+- Introduction to Microcontrollers and Embedded Design
 
 
 
 ### Experience
-Since I began programming in High School, I have done a number of projects, most notably [acm.mst.edu](https://acm.mst.edu)
+Since I began programming in High School, I have done a number of projects.
 
 #### acm.mst.edu
-As Vice Chair of **ACM SIG.com** I designed and developed the front facing part of the website and have begun work on backend elements.
+As a member of **ACM SIG.com** I have helped develop the frontend and backend aspects of the website, [acm.mst.edu](https://acm.mst.edu).
 
 [acm.mst.edu](https://acm.mst.edu) is developed using:
 - HTML/CSS
@@ -22,22 +28,12 @@ As Vice Chair of **ACM SIG.com** I designed and developed the front facing part 
 - Sphinx
 - Vagrant
 
-Through SIG.com I have also been hosting meetings, workshops and helping with team management.
-
-#### Swoly
-**Swoly** is an in progress fitness app designed by myself and [Innocent Niyibizi](https://github.com/25cent9).
-
-[Swoly](https://github.com/triPi-Devs/SwolyV2) is developed using:
-- Java
-- SQLite
-- XML
-
 #### Other work experience
-I have worked at a few locations, to find out more, email me at [mcginnis@claymav.com](mailto:mcginnis@claymav.com)
+I have worked at a few locations, to find out more, email me at [tgt5h3@mst.edu](mailto:tgt5h3@mst.edu)
 
 
 
 ### Skills
-***Strong***: Git, Unix, HTML, CSS
+***Strong***: Git, C++, Python, Javascript
 
-***Knowledgable***: C++, Python
+***Knowledgable***: HTML, CSS, Go, Java, Prolog, Lisp
