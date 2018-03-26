@@ -1,6 +1,0 @@
-name: Example Name of Project
-desc: This is an example description of a project
-techs:
-    - name: HTML/CSS
-    - name: Python
-    - name: Django
